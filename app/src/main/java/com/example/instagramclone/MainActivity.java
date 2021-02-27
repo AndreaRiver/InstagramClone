@@ -177,7 +177,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private void goLogout() {
-        Toast.makeText(MainActivity.this, "PEDOTE", Toast.LENGTH_SHORT).show();
         ParseUser.logOut();
         ParseUser currentUser = ParseUser.getCurrentUser();
         Intent i = new Intent( this, LoginActivity.class);
