@@ -69,8 +69,7 @@ Describe any challenges encountered while building the app.
     See the License for the specific language governing permissions and
     limitations under the License.
 ---
-
-## User Stories
+# *Instagram Clone - Part 1*
 
 The following **required** functionality is completed:
 
